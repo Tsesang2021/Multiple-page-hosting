@@ -1,0 +1,23 @@
+body {
+    background-color: #F8E8A6;
+}
+
+h1,p {
+text-align: center;
+}
+
+.croissant{
+    display: block;
+    margin: 30px auto;
+    max-width: 50%;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer a{
+    margin: 0 10px;
+    color: dodgerblue;
+}
